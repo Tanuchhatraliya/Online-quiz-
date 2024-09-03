@@ -1,0 +1,38 @@
+button{
+    color: white;
+    background-color: rgb(10, 122, 8);
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    transition-delay: 1s;
+    transform: scale(1);
+}
+button:hover{
+    background-color: blue;
+     font-size: 20px;
+}
+p{
+    font-size: 18px;
+    font-weight: 600;
+}
+label{
+    color: rgb(119, 101, 101);
+    font-weight: 500;
+}
+h1{
+    padding-left: 45%;
+    text-decoration: double;
+    text-decoration-color: black;
+}
+div {
+    border: 1px solid black;
+    margin: 15px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(255, 163, 163, 0.053);
+}
